@@ -1,0 +1,1 @@
+document.getElementById('demostracion').innerHTML='Texto de prueba para pagina';
